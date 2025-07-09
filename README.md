@@ -12,8 +12,4 @@ Tables Used
 3. RIGHT JOIN – All orders (with/without customers)
 4. FULL OUTER JOIN – Simulated with LEFT + RIGHT JOIN + UNION
 
-📸 Output Screenshots
-OUTPUT_1.png
-OUTPUT_2.png
-OUTPUT_3.png
-OUTPUT_4.png
+<img width="601" height="294" alt="Image" src="https://github.com/user-attachments/assets/1843688a-1df5-463d-af49-bd8b01413faa" />
