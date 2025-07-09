@@ -13,4 +13,7 @@ Tables Used
 4. FULL OUTER JOIN – Simulated with LEFT + RIGHT JOIN + UNION
 
 📸 Output Screenshots
-Screenshots of output tables are saved in the `/screenshots` folder.
+OUTPUT_1.png
+OUTPUT_2.png
+OUTPUT_3.png
+OUTPUT_4.png
